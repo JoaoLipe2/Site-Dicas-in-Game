@@ -1,0 +1,30 @@
+body {
+    color: rgb(255, 255, 255);
+    background-image: url(https://image.api.playstation.com/vulcan/ap/rnd/202009/2820/h12URI7MdswtFPFHpkppNh2z.png?w=1920&thumb=false);
+    margin: 0px;
+    font-family: "DM Serif Text", serif;
+}
+
+header {
+    border-bottom: solid 5px rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 32px;
+    color: white
+}
+
+section {
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+section {
+    ~~display: block;~~
+    unicode-bidi isolate;
+}
+
